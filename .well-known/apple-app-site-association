@@ -8,7 +8,7 @@
                     "/": "/buy/*",
                     "comment": "test"
                 }],
-                "path":["/path/*"]
+                "paths":["/path/*"]
             }
         ]
     }
