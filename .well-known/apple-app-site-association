@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "8MB2585P8Y.com.sysdj.test",
+                "paths": [ "/*"]
+            }
+        ]
+    }
+}
