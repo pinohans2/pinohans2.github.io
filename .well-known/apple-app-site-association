@@ -4,7 +4,11 @@
         "details": [
             {
                 "appID": "8MB2585P8Y.com.sysdj.test",
-                "paths": [ "/*"]
+                "components": [{
+                    "/": "/*",
+                    "comment": "test"
+                }],
+                "path":["/path/*"]
             }
         ]
     }
